@@ -2,19 +2,22 @@
 
 O projeto **ContaBanco** é uma aplicação Java simples que simula a criação e o gerenciamento de uma conta bancária. O objetivo é demonstrar a manipulação de entrada de dados via terminal e exibição de mensagens formatadas.
 
+
 ```
 Por favor, digite o número da conta: 
 85969584
+
 Por favor, digite o nome da sua agência: 
 Bradesco
+
 Por favor, digite o nome do cliente: 
 Ricardo dos Santos Calvacante
+
 Por favor, digite o saldo: 
 5000
-Olá Ricardo dos Santos Calvacante, obrigado por criar uma conta em nosso banco, sua agência é Bradesco, conta 85969584 e seu saldo 5000.0 já está disponível para saque.```
 
-
-
+Olá Ricardo dos Santos Calvacante, obrigado por criar uma conta em nosso banco, sua agência é Bradesco, conta 85969584 e seu saldo 5000.0 já está disponível para saque.
+```
 
 ## Descrição
 
