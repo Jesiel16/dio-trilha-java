@@ -30,7 +30,7 @@ A aplicação solicita ao usuário informações sobre uma conta bancária, como
 
 ## Requisitos
 
-- **Java 8** ou superior
+- **Java 17** ou superior
 - **IntelliJ IDEA** ou qualquer IDE de sua preferência com suporte a Java
 - **Git** para controle de versão e clonagem do repositório
 
